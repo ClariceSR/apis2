@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ViaCEP</string>
+    <string name="action_settings">Configurações</string>
+    <string name="txtCEP">CEP</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="txtLogradouro">Logradouro</string>
+    <string name="txtComplemento">Complemento</string>
+    <string name="txtBairro">Bairro</string>
+    <string name="txtLocalidade">Localidade</string>
+    <string name="txtUf">UF</string>
+    <string name="txtIbge">IBGE</string>
+    <string name="txtGia">Gia</string>
+    <string name="msgOk">Ok</string>
+</resources>
